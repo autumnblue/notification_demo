@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+  padding: 50px;
+}
+
+.App .header-part {
+  text-align: center;
+  border-bottom: 2px solid grey;
+}
+
+.App .header-part .title {
+  font-size: 30px;
+}
+
+.App .button-group {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
